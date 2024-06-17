@@ -4,7 +4,7 @@
 </p>
 <br>
   <h2 align="center">
-      Exercício curso Dio
+      Exercício curso DIO
 <br>
   </h2>
   <h4 align="center">Desenvolvido com linguagem de programação Java</h4>
