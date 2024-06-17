@@ -1,6 +1,6 @@
 <p align="center">
 <br>
-  <img  width="600px" alt="Conta Banco Titulo" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1718571266/contaBanco/760727cae3aca13bfcbae7de5d47df0e_hvyiiv.png"/>
+  <img  width="700px" alt="Conta Banco Titulo" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1718582465/contaBanco/795ee2153fbeb44cd53836958d01762a_svnkmu.png"/>
 </p>
 <br>
   <h2 align="center">
